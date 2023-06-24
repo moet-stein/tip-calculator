@@ -9,7 +9,7 @@ import UIKit
 
 class TipInputView: UIView {
     init() {
-        super.init(frame: .zero) // since it's auto layout, we don't care about frame much
+        super.init(frame: .zero)
         layout()
     }
     
